@@ -1,4 +1,4 @@
-# Excel
+# Excel 1
 ## Objective
 
 Analyze the data of 1,000 example projects in an attempt to uncover market trends. 
@@ -79,15 +79,10 @@ Analyze the data of 1,000 example projects in an attempt to uncover market trend
   * The mean number of backers
 
   * The median number of backers
+  
+  
+# Excel 2
+## Objective
 
-  * The minimum number of backers
-
-  * The maximum number of backers
-
-  * The variance of the number of backers
-
-  * The standard deviation of the number of backers
-
-* Use your data to determine whether the mean or the median summarizes the data more meaningfully.
-
-* Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
+  * Analyze Inventory for specific product category;
+  * Compare Inventory available at Ditribution Center and Branches
